@@ -1,0 +1,8 @@
+User-agent: *
+
+Allow: /
+
+Disallow:/Log
+Disallow:/membership
+Disallow:/resume
+Sitemap:http://job.ac.kr/index.asp
